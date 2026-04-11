@@ -1,5 +1,7 @@
 # Olostep Web Crawl 
 
+<img width="1837" height="845" alt="Screenshot 2026-04-11 151237" src="https://github.com/user-attachments/assets/38d9a159-c345-4b14-abd0-eba22c93fc46" />
+
 Small Olostep crawler project with:
 - `crawl_docs_with_olostep.py` for crawling docs pages and saving cleaned markdown
 - `app.py` for a simple Gradio UI on top of the crawler
