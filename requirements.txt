@@ -1,0 +1,4 @@
+gradio==6.0.0
+olostep==1.0.4
+python-dotenv==1.2.1
+tqdm==4.67.3
